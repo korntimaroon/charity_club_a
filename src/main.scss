@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Mono&display=swap');
+.DocHeader {
+    height:70px;
+    width: 100vw;
+    position: absolute;
+    z-index: 100;
+    background-color: red;
+    font-weight: 200;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+    font-size: 14pt;
+}
+
